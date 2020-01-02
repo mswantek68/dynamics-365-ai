@@ -119,4 +119,4 @@ You can delete existing measures.
 
 ## Next step
 
-You cam use existing measures to create your first customer segment on the **Segments** page. For more information, see [Segments](pm-segments.md).
+You can use existing measures to create your first customer segment on the **Segments** page. For more information, see [Segments](pm-segments.md).
